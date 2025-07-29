@@ -23,3 +23,9 @@ variable "aws_region" {
   default     = "ap-south-1"
   
 }
+
+variable "key_name" {
+  description = "The name of the key pair to use for SSH access to the instance"
+  type        = string
+  default     = "testkey"  # Replace with your actual key pair name
+}
