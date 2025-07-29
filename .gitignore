@@ -1,0 +1,5 @@
+ModulesPractice/.terraform.lock.hcl
+ModulesPractice/.terraform-version
+ModulesPractice/terraform.tfstate   
+ModulesPractice/.terraform/
+ModulesPractice/terraform.tfstate.backup
